@@ -1,0 +1,14 @@
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/bin/Debug/netcoreapp2.2/SignalRWeb.deps.json
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/bin/Debug/netcoreapp2.2/SignalRWeb.runtimeconfig.json
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/bin/Debug/netcoreapp2.2/SignalRWeb.runtimeconfig.dev.json
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/bin/Debug/netcoreapp2.2/SignalRWeb.dll
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/bin/Debug/netcoreapp2.2/SignalRWeb.pdb
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/obj/Debug/netcoreapp2.2/SignalRWeb.csprojAssemblyReference.cache
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/obj/Debug/netcoreapp2.2/SignalRWeb.csproj.CoreCompileInputs.cache
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/obj/Debug/netcoreapp2.2/SignalRWeb.RazorAssemblyInfo.cache
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/obj/Debug/netcoreapp2.2/SignalRWeb.RazorAssemblyInfo.cs
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/obj/Debug/netcoreapp2.2/SignalRWeb.AssemblyInfoInputs.cache
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/obj/Debug/netcoreapp2.2/SignalRWeb.AssemblyInfo.cs
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/obj/Debug/netcoreapp2.2/SignalRWeb.RazorTargetAssemblyInfo.cache
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/obj/Debug/netcoreapp2.2/SignalRWeb.dll
+/Users/mac/dev/dotnet/SignalRExample/SignalRWeb/obj/Debug/netcoreapp2.2/SignalRWeb.pdb

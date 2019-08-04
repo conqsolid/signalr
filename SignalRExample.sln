@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRWeb", "SignalRWeb\SignalRWeb.csproj", "{7C2987ED-ABF6-4727-BE2A-2357674C812F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRConsole", "SignalRConsole\SignalRConsole.csproj", "{11762D87-E2F9-4EDE-9D9E-D556BE70CC09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C2987ED-ABF6-4727-BE2A-2357674C812F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2987ED-ABF6-4727-BE2A-2357674C812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2987ED-ABF6-4727-BE2A-2357674C812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2987ED-ABF6-4727-BE2A-2357674C812F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11762D87-E2F9-4EDE-9D9E-D556BE70CC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11762D87-E2F9-4EDE-9D9E-D556BE70CC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11762D87-E2F9-4EDE-9D9E-D556BE70CC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11762D87-E2F9-4EDE-9D9E-D556BE70CC09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

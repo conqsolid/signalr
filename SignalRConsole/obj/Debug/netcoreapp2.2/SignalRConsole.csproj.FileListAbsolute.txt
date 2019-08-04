@@ -1,0 +1,11 @@
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/obj/Debug/netcoreapp2.2/SignalRConsole.csprojAssemblyReference.cache
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/obj/Debug/netcoreapp2.2/SignalRConsole.csproj.CoreCompileInputs.cache
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/obj/Debug/netcoreapp2.2/SignalRConsole.AssemblyInfoInputs.cache
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/obj/Debug/netcoreapp2.2/SignalRConsole.AssemblyInfo.cs
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/bin/Debug/netcoreapp2.2/SignalRConsole.deps.json
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/bin/Debug/netcoreapp2.2/SignalRConsole.runtimeconfig.json
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/bin/Debug/netcoreapp2.2/SignalRConsole.runtimeconfig.dev.json
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/bin/Debug/netcoreapp2.2/SignalRConsole.dll
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/bin/Debug/netcoreapp2.2/SignalRConsole.pdb
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/obj/Debug/netcoreapp2.2/SignalRConsole.dll
+/Users/mac/dev/dotnet/SignalRExample/SignalRConsole/obj/Debug/netcoreapp2.2/SignalRConsole.pdb
